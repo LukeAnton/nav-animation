@@ -1,0 +1,14 @@
+{
+  "name": "menu-animation",
+  "version": "1.0.0",
+  "description": "DD menu",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "Luke A Firth",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
